@@ -1,4 +1,6 @@
 VizInt
 ======
 
-Interactive Visualizer for F#
+Interactive Visualizer for F#.
+
+Experimental version for developers.
